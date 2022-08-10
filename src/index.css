@@ -14,3 +14,17 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
+.character {
+  display: flex;
+  justify-content: space-between;
+  gap: 4rem;
+}
+.character-content {
+  justify-content: center;
+}
+.character-episode {
+  gap: 1rem;
+  display: flex;
+  margin-top: 1rem;
+  flex-direction: column;
+}
